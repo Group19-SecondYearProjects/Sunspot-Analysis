@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.2)  2 MAR 2016 14:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2016.3.2)  2 MAR 2016 15:06
 entering extended mode
-**C:/Users/Lizzie/Sunspot-Analysis/Sunspot-Analysis/litreview/Lit_Review.tex
-(C:/Users/Lizzie/Sunspot-Analysis/Sunspot-Analysis/litreview/Lit_Review.tex
+**C:/Users/Lizzie/Sunspot-Analysis/litreview/Lit_Review.tex
+(C:/Users/Lizzie/Sunspot-Analysis/litreview/Lit_Review.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 70 language(s) loaded.
 ("C:\Users\Lizzie\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls"
@@ -580,33 +580,33 @@ Package biblatex Info: ... file 'Lit_Review.bbl' found.
 Package biblatex Info: Reference section=0 on input line 13.
 Package biblatex Info: Reference segment=0 on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 16.
+(Font)              <14.4> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 16.
+(Font)              <7> on input line 14.
  [1
 
-{C:/Users/Lizzie/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] (Lit_R
-eview.aux)
+{C:/Users/Lizzie/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (Lit_Revie
+w.aux)
 Package logreq Info: Writing requests to 'Lit_Review.run.xml'.
 \openout1 = `Lit_Review.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  5456 strings out of 493622
- 90507 string characters out of 3134732
- 252885 words of memory out of 3000000
+ 90456 string characters out of 3134732
+ 253885 words of memory out of 3000000
  8858 multiletter control sequences out of 15000+200000
  6103 words of font info for 22 fonts, out of 3000000 for 9000
  1025 hyphenation exceptions out of 8191
- 35i,6n,45p,889b,799s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,6n,45p,872b,797s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Lizzie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmbx12.pfb><C:/Users/Lizzie/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmr12.pfb><C:/Users/Lizzie/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Lizzie/AppData/Local/Progra
 ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Lit_Review.pdf (2 pages, 47589 bytes).
+Output written on Lit_Review.pdf (1 page, 49193 bytes).
 PDF statistics:
- 25 PDF objects out of 1000 (max. 8388607)
+ 22 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
