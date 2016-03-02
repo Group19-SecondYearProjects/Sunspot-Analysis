@@ -1,0 +1,42 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{blah}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {name}{n.}%
+     {Author}{A.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Name of publisher}%
+  }
+  \strng{namehash}{nA1}
+  \strng{fullhash}{nA1}
+  \field{sortinit}{N}
+  \field{title}{Title of book}
+  \list{location}{1}{%
+    {Location published}%
+  }
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
