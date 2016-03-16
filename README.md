@@ -11,3 +11,4 @@ requirements for a sript:
   
   
   http://mosaic.mpi-cbg.de/docs/Sbalzarini_SPT.pdf
+  http://www.physics.emory.edu/faculty/weeks//idl/
